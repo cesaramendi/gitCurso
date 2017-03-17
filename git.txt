@@ -1,0 +1,7 @@
+//configurar proxy para git
+
+git config --global http.proxy http://usuario:passw@proxy.uc.edu.ve:5010
+
+//iniciar git
+
+git init
